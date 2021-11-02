@@ -2,7 +2,7 @@
 This work allows you to get a floppy drive and write adf (Amiga Disk Format) files to real floppy disks.
 
 # Implementation
-This PCB is based on the schematic published from [Rob Smith](https://amiga.robsmithdev.co.uk/instructions/promini).
+This PCB is based on the schematic published by [Rob Smith](https://amiga.robsmithdev.co.uk/instructions/promini).
 
 ![Schematic with Arduino Pro Mini](/images/promini_writer.gif)
 
