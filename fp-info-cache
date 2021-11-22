@@ -1,4 +1,4 @@
-18651058723821371
+18662486766930265
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82039,20 +82039,34 @@ varistor SIOV
 0
 2
 2
-amiga_floppy
-ftdi_232_usb
-Through hole straight pin header, 1x06, 2.54mm pitch, single row
-Through hole pin header THT 1x06 2.54mm single row
-0
-6
-6
-arduino_pro_mini
-MODULE_ARDUINO_PRO_MINI
+angel
+angel
 
 
 0
-34
-34
+0
+0
+carrier_large
+carrier_large
+
+
+0
+0
+0
+dfr0299
+MODULE_DFR0299
+
+
+0
+16
+16
+dil24
+dil24
+
+
+0
+24
+24
 esp32_d1_mini
 ESP32_mini
 
@@ -82060,6 +82074,20 @@ ESP32_mini
 0
 40
 40
+ky040_rotary_encoder
+ky040_rotary_encoder
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+oled_128x32
+oled_128x32
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
 pcb_sim7000
 alert
 
@@ -82144,3 +82172,24 @@ weight
 0
 0
 0
+radar
+radar
+
+
+0
+0
+0
+sea
+sea
+
+
+0
+0
+0
+ttgo_sim800l
+TTGO-TCALL-SIM800
+
+
+0
+42
+42
